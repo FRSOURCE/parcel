@@ -4,7 +4,8 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "demo": "parcel build src/index.html"
+    "demo": "parcel build src/index.html",
+    "start": "parcel src/index.html"
   },
   "browserslist": [
     "last 2 versions",
